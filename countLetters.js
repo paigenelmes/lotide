@@ -23,4 +23,4 @@ const countLetters = function(sentence) {
 console.log(countLetters("LHL"));
 console.log(countLetters("Paige"));
 console.log(countLetters("Strawberry"));
-assertEqual(countLetters("LHL"), countLetters("LHL"));
+assertEqual(("LHL"), ("LHL"));

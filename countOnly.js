@@ -22,6 +22,7 @@ const countOnly = function(allItems, itemsToCount) {
       if (results[item]) {
         results[item] += 1;
       } else {
+        
         results[item] = 1;
       }
     }

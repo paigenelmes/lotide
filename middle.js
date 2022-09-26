@@ -38,7 +38,6 @@ const middle = function(originalArray) {
   return middleArray;
 };
 
-
 //1 or 2 elements testing
 
 console.log(middle([1])); // => [] this works!
@@ -53,3 +52,7 @@ console.log(middle([1, 2, 3, 4, 5])); // => [3] this works!
 
 console.log(middle([1, 2, 3, 4])); // => [2, 3] this works!
 console.log(middle([1, 2, 3, 4, 5, 6])); // => [3, 4] this works!
+
+//Testing with assertArraysEqual
+
+assertArraysEqual(middle([1, 2, 3, 4, 5]), middle([1, 2, 3, 4, 5]));

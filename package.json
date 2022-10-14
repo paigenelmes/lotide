@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@paige.nelmes/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library. Created by Paige Nelmes as part of my learning at Lighthouse Labs.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/paigenelmes/lotide.git"
   },
-  "author": "",
+  "author": "Paige Nelmes <designer@paigenelmes.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/paigenelmes/lotide/issues"

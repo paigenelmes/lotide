@@ -1,4 +1,3 @@
-const assertEqual = require('../lotide/assertEqual');
 const eqArrays = require('../lotide/eqArrays');
 
 //Equal Objects function

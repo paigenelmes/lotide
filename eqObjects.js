@@ -2,7 +2,7 @@ const eqArrays = require('../lotide/eqArrays');
 
 //Equal Objects function
 
-//Returns true if both objcts have identical keys & values
+//Returns true if both objects have identical keys & values
 //Otherwise you get false
 
 const eqObjects = function(object1, object2) {
